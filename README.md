@@ -1,2 +1,2 @@
 # faultycalcu
-faulty calculator
+Works alright except 3 conditions
